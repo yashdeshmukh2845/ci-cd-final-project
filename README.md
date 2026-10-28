@@ -1,6 +1,6 @@
 # CI/CD Final Project: Hit Counter Service
 
-[![CI workflow](https://github.com/ibm-developer-skills-network/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/ibm-developer-skills-network/ci-cd-final-project/actions/workflows/workflow.yml)
+[![CI workflow](https://github.com/yashdeshmukh2845/ci-cd-final-project/actions/workflows/workflow.yml/badge.svg)](https://github.com/yashdeshmukh2845/ci-cd-final-project/actions/workflows/workflow.yml)
 
 This repository contains the complete implementation of the Final Project for the Coursera course **Continuous Integration and Continuous Delivery (CI/CD)** / **CI/CD Tools and Practices** as part of the IBM DevOps and Software Engineering Professional Certificate.
 
